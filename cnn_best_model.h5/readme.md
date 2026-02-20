@@ -1,2 +1,0 @@
-# Model Download
-Please download the model manually: [Download model.h5] (https://drive.google.com/file/d/1kDl5Z1Rx216NQu1D85CIlcjNSycy4WVE/view?usp=sharing)
